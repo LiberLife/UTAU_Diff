@@ -1,0 +1,2 @@
+name=Diff
+execute=diff.exe
